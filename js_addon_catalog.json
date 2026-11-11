@@ -3,7 +3,7 @@
     {
       "id": "dev.fearless.embegatorjs",
       "name": "EmbegatorJS",
-      "version": "1.0.0",
+      "version": "1.1.0",
       "type": "js",
       "description": "Direct stream resolver for movies and TV with adaptive MP4/HLS quality and embedded captions.",
       "publisher": "fearless",
@@ -23,7 +23,7 @@
     {
       "id": "dev.fearless.traileroojs",
       "name": "TrailerooJS",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "type": "js",
       "description": "Adds the official IMDb rating and trailers for a TMDB title.",
       "publisher": "fearless",
