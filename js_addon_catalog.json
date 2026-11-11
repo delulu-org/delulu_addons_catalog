@@ -11,6 +11,16 @@
       "logo": "https://raw.githubusercontent.com/KamruzzamanMahin/Js-Addons/main/EmbegatorJS/embegatorjs.png"
     },
     {
+      "id": "dev.fearless.scrapyjs",
+      "name": "ScrapyJS",
+      "version": "0.1.1",
+      "type": "js",
+      "description": "High-quality movie & TV streams in up to 4K HDR/Dolby Vision. Direct file URLs, resolved keylessly.",
+      "publisher": "fearless",
+      "manifestUrl": "https://raw.githubusercontent.com/KamruzzamanMahin/Js-Addons/refs/heads/main/ScrapyJS/manifest.json",
+      "logo": "https://delulu-addons.pages.dev/default_addon_logo.png"
+    },
+    {
       "id": "dev.fearless.traileroojs",
       "name": "TrailerooJS",
       "version": "1.1.0",
