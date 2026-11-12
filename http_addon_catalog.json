@@ -3,7 +3,7 @@
     {
       "id": "dev.not-phoenix.phoenix",
       "name": "Phoenix",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "type": "http",
       "description": "High-Speed Meta & Trailer Resolver for Delulu",
       "publisher": "not-phoenix",
@@ -13,7 +13,7 @@
     {
       "id": "dev.not-phoenix.pd",
       "name": "Public Domain Movies&Shows",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "type": "http",
       "description": "Public Domain Movies & TV Classics — High-Speed Direct Streams and Torrents",
       "publisher": "not-phoenix",
@@ -23,7 +23,7 @@
     {
       "id": "dev.not-phoenix.subfox",
       "name": "SubFox",
-      "version": "1.1.0",
+      "version": "1.2.0",
       "type": "http",
       "description": "High-Speed Multi-Language Subtitles for Delulu by not-phoenix",
       "publisher": "not-phoenix",
