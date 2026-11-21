@@ -1,54 +1,54 @@
-﻿{
-    "addons":  [
-                   {
-                       "version":  "0.3.0",
-                       "id":  "dev.fearless.elf",
-                       "name":  "Elf",
-                       "type":  "local",
-                       "description":  "Direct stream and Fast Cloud resolver for movies and TV with 4K/1080p multi-audio streams and subtitles.",
-                       "manifestUrl":  "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/elf/manifest.json",
-                       "logo":  "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/elf/Elf.png",
-                       "publisher":  "fearless"
-                   },
-                   {
-                       "version":  "0.3.0",
-                       "id":  "dev.fearless.embegator",
-                       "name":  "EmbeGator",
-                       "type":  "local",
-                       "description":  "Direct stream resolver for movies and TV with adaptive MP4/HLS quality and embedded captions.",
-                       "manifestUrl":  "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/embegator/manifest.json",
-                       "logo":  "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/embegator/EmbeGator.png",
-                       "publisher":  "fearless"
-                   },
-                   {
-                       "version":  "0.3.0",
-                       "id":  "dev.fearless.motherbox",
-                       "name":  "MotherBox",
-                       "type":  "local",
-                       "description":  "Direct stream resolver for movies and TV with adaptive MP4/HLS quality and multi-language audio tracks.",
-                       "manifestUrl":  "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/motherbox/manifest.json",
-                       "logo":  "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/motherbox/MotherBox.png",
-                       "publisher":  "fearless"
-                   },
-                   {
-                       "version":  "0.3.0",
-                       "id":  "dev.fearless.rosseta",
-                       "name":  "Rosseta",
-                       "type":  "local",
-                       "description":  "Official OpenSubtitles v3 subtitle provider for Delulu.",
-                       "manifestUrl":  "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/rosseta/manifest.json",
-                       "logo":  "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/rosseta/Rosseta.png",
-                       "publisher":  "fearless"
-                   },
-                   {
-                       "version":  "0.3.0",
-                       "id":  "dev.fearless.traileroo",
-                       "name":  "Traileroo",
-                       "type":  "local",
-                       "description":  "Adds the official IMDb rating and trailers for a TMDB title.",
-                       "manifestUrl":  "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/traileroo/manifest.json",
-                       "logo":  "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/traileroo/Traileroo.png",
-                       "publisher":  "fearless"
-                   }
-               ]
+{
+  "addons": [
+    {
+      "version": "0.3.0",
+      "id": "dev.fearless.elf",
+      "name": "Elf",
+      "type": "local",
+      "description": "Direct stream and Fast Cloud resolver for movies and TV with 4K/1080p multi-audio streams and subtitles.",
+      "manifestUrl": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/elf/manifest.json",
+      "logo": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/elf/Elf.png",
+      "publisher": "fearless"
+    },
+    {
+      "version": "0.3.0",
+      "id": "dev.fearless.embegator",
+      "name": "EmbeGator",
+      "type": "local",
+      "description": "Direct stream resolver for movies and TV with adaptive MP4/HLS quality and embedded captions.",
+      "manifestUrl": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/embegator/manifest.json",
+      "logo": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/embegator/EmbeGator.png",
+      "publisher": "fearless"
+    },
+    {
+      "version": "0.3.0",
+      "id": "dev.fearless.motherbox",
+      "name": "MotherBox",
+      "type": "local",
+      "description": "Direct stream resolver for movies and TV with adaptive MP4/HLS quality and multi-language audio tracks.",
+      "manifestUrl": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/motherbox/manifest.json",
+      "logo": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/motherbox/MotherBox.png",
+      "publisher": "fearless"
+    },
+    {
+      "version": "0.3.0",
+      "id": "dev.fearless.rosseta",
+      "name": "Rosseta",
+      "type": "local",
+      "description": "Official OpenSubtitles v3 subtitle provider for Delulu.",
+      "manifestUrl": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/rosseta/manifest.json",
+      "logo": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/rosseta/Rosseta.png",
+      "publisher": "fearless"
+    },
+    {
+      "version": "0.3.0",
+      "id": "dev.fearless.traileroo",
+      "name": "Traileroo",
+      "type": "local",
+      "description": "Adds the official IMDb rating and trailers for a TMDB title.",
+      "manifestUrl": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/traileroo/manifest.json",
+      "logo": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/traileroo/Traileroo.png",
+      "publisher": "fearless"
+    }
+  ]
 }
