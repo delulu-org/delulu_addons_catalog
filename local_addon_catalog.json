@@ -33,9 +33,9 @@
     {
       "id": "dev.fearless.rosseta",
       "name": "Rosseta",
-      "version": "0.3.0",
+      "version": "0.3.1",
       "type": "local",
-      "description": "Official OpenSubtitles v3 subtitle provider for Delulu.",
+      "description": "Official OpenSubtitles v3 subtitle provider for Delulu. Free API keys are limited to 5 subtitle downloads per 24 hours.",
       "publisher": "fearless",
       "manifestUrl": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/rosseta/manifest.json",
       "logo": "https://raw.githubusercontent.com/KamruzzamanMahin/Signed_Local_Addons/main/rosseta/Rosseta.png"
