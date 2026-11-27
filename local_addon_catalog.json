@@ -33,7 +33,7 @@
     {
       "id": "dev.fearless.rosseta",
       "name": "Rosseta",
-      "version": "0.3.1",
+      "version": "0.3.2",
       "type": "local",
       "description": "Official OpenSubtitles v3 subtitle provider for Delulu. Free API keys are limited to 5 subtitle downloads per 24 hours.",
       "publisher": "fearless",
